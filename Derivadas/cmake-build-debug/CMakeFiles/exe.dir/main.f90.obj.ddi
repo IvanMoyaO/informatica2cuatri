@@ -1,0 +1,21 @@
+{
+	"revision" : 0,
+	"rules" : 
+	[
+		{
+			"outputs" : [],
+			"primary-output" : "CMakeFiles\\\\exe.dir\\\\main.f90.obj",
+			"provides" : [],
+			"requires" : 
+			[
+				{
+					"logical-name" : "funciones.mod"
+				},
+				{
+					"logical-name" : "mod_derivacion.mod"
+				}
+			]
+		}
+	],
+	"version" : 0
+}
