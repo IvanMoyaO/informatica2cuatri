@@ -1,0 +1,4 @@
+C:/Users/Ivan/Desktop/Informatica/Autovalores/cmake-build-debug/CMakeFiles/mod.dir
+C:/Users/Ivan/Desktop/Informatica/Autovalores/cmake-build-debug/CMakeFiles/exe.dir
+C:/Users/Ivan/Desktop/Informatica/Autovalores/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ivan/Desktop/Informatica/Autovalores/cmake-build-debug/CMakeFiles/rebuild_cache.dir

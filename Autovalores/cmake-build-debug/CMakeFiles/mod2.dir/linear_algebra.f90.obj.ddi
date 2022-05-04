@@ -1,0 +1,19 @@
+{
+	"revision" : 0,
+	"rules" : 
+	[
+		{
+			"outputs" : [],
+			"primary-output" : "CMakeFiles\\\\mod2.dir\\\\linear_algebra.f90.obj",
+			"provides" : 
+			[
+				{
+					"compiled-module-path" : "resolver.mod",
+					"logical-name" : "resolver.mod"
+				}
+			],
+			"requires" : []
+		}
+	],
+	"version" : 0
+}

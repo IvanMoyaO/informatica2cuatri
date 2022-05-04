@@ -1,0 +1,19 @@
+{
+	"revision" : 0,
+	"rules" : 
+	[
+		{
+			"outputs" : [],
+			"primary-output" : "CMakeFiles\\\\mod.dir\\\\mod_autovals.f90.obj",
+			"provides" : 
+			[
+				{
+					"compiled-module-path" : "mod_autovals.mod",
+					"logical-name" : "mod_autovals.mod"
+				}
+			],
+			"requires" : []
+		}
+	],
+	"version" : 0
+}

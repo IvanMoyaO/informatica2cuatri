@@ -1,0 +1,4 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\\mod.dir\\mod_autovals.f90.obj | mod_autovals.mod: dyndep
+  restat = 1
+
