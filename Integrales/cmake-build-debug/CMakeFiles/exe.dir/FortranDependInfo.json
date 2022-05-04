@@ -1,0 +1,17 @@
+{
+	"compiler-id" : "GNU",
+	"dir-cur-bld" : "C:/Users/Ivan/Desktop/Informatica/Integrales/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/Ivan/Desktop/Informatica/Integrales",
+	"dir-top-bld" : "C:/Users/Ivan/Desktop/Informatica/Integrales/cmake-build-debug",
+	"dir-top-src" : "C:/Users/Ivan/Desktop/Informatica/Integrales",
+	"include-dirs" : [],
+	"language" : "Fortran",
+	"linked-target-dirs" : 
+	[
+		"C:/Users/Ivan/Desktop/Informatica/Integrales/cmake-build-debug/CMakeFiles/mod.dir",
+		"C:/Users/Ivan/Desktop/Informatica/Integrales/cmake-build-debug/CMakeFiles/fx.dir"
+	],
+	"module-dir" : "C:/Users/Ivan/Desktop/Informatica/Integrales/cmake-build-debug",
+	"submodule-ext" : ".smod",
+	"submodule-sep" : "@"
+}

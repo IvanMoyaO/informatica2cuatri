@@ -1,0 +1,19 @@
+{
+	"revision" : 0,
+	"rules" : 
+	[
+		{
+			"outputs" : [],
+			"primary-output" : "CMakeFiles\\\\mod.dir\\\\mod_integracion.f90.obj",
+			"provides" : 
+			[
+				{
+					"compiled-module-path" : "mod_derivacion.mod",
+					"logical-name" : "mod_derivacion.mod"
+				}
+			],
+			"requires" : []
+		}
+	],
+	"version" : 0
+}

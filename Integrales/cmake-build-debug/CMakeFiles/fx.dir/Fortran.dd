@@ -1,0 +1,4 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\\fx.dir\\funciones.f90.obj | funciones.mod: dyndep
+  restat = 1
+

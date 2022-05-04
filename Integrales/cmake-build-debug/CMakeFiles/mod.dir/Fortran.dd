@@ -1,0 +1,4 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\\mod.dir\\mod_integracion.f90.obj | mod_derivacion.mod: dyndep
+  restat = 1
+
