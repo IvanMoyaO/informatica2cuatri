@@ -1,0 +1,4 @@
+C:/Users/Ivan/Desktop/Informatica/SistemasLineales/cmake-build-debug/CMakeFiles/exe.dir
+C:/Users/Ivan/Desktop/Informatica/SistemasLineales/cmake-build-debug/CMakeFiles/lib1.dir
+C:/Users/Ivan/Desktop/Informatica/SistemasLineales/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ivan/Desktop/Informatica/SistemasLineales/cmake-build-debug/CMakeFiles/rebuild_cache.dir

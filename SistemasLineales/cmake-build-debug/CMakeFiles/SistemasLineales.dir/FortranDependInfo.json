@@ -1,0 +1,16 @@
+{
+	"compiler-id" : "GNU",
+	"dir-cur-bld" : "C:/Users/Ivan/Desktop/Informatica/SistemasLineales/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/Ivan/Desktop/Informatica/SistemasLineales",
+	"dir-top-bld" : "C:/Users/Ivan/Desktop/Informatica/SistemasLineales/cmake-build-debug",
+	"dir-top-src" : "C:/Users/Ivan/Desktop/Informatica/SistemasLineales",
+	"include-dirs" : [],
+	"language" : "Fortran",
+	"linked-target-dirs" : 
+	[
+		"C:/Users/Ivan/Desktop/Informatica/SistemasLineales/cmake-build-debug/CMakeFiles/lib1.dir"
+	],
+	"module-dir" : "C:/Users/Ivan/Desktop/Informatica/SistemasLineales/cmake-build-debug",
+	"submodule-ext" : ".smod",
+	"submodule-sep" : "@"
+}

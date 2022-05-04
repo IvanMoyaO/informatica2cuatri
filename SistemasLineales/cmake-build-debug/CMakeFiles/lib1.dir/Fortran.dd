@@ -1,0 +1,4 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\\lib1.dir\\resolver.f90.obj | resolver.mod: dyndep
+  restat = 1
+
