@@ -1,0 +1,13 @@
+{
+	"compiler-id" : "GNU",
+	"dir-cur-bld" : "C:/Users/Ivan/Desktop/Informatica/EcuNoLineales/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/Ivan/Desktop/Informatica/EcuNoLineales",
+	"dir-top-bld" : "C:/Users/Ivan/Desktop/Informatica/EcuNoLineales/cmake-build-debug",
+	"dir-top-src" : "C:/Users/Ivan/Desktop/Informatica/EcuNoLineales",
+	"include-dirs" : [],
+	"language" : "Fortran",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/Ivan/Desktop/Informatica/EcuNoLineales/cmake-build-debug",
+	"submodule-ext" : ".smod",
+	"submodule-sep" : "@"
+}

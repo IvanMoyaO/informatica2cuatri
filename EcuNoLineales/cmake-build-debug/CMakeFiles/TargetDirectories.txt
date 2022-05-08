@@ -1,0 +1,5 @@
+C:/Users/Ivan/Desktop/Informatica/EcuNoLineales/cmake-build-debug/CMakeFiles/fx.dir
+C:/Users/Ivan/Desktop/Informatica/EcuNoLineales/cmake-build-debug/CMakeFiles/mod.dir
+C:/Users/Ivan/Desktop/Informatica/EcuNoLineales/cmake-build-debug/CMakeFiles/exe.dir
+C:/Users/Ivan/Desktop/Informatica/EcuNoLineales/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ivan/Desktop/Informatica/EcuNoLineales/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,13 @@
+{
+	"compiler-id" : "GNU",
+	"dir-cur-bld" : "C:/Users/Ivan/Desktop/Informatica/SistemasIterativos/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/Ivan/Desktop/Informatica/SistemasIterativos",
+	"dir-top-bld" : "C:/Users/Ivan/Desktop/Informatica/SistemasIterativos/cmake-build-debug",
+	"dir-top-src" : "C:/Users/Ivan/Desktop/Informatica/SistemasIterativos",
+	"include-dirs" : [],
+	"language" : "Fortran",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/Ivan/Desktop/Informatica/SistemasIterativos/cmake-build-debug",
+	"submodule-ext" : ".smod",
+	"submodule-sep" : "@"
+}

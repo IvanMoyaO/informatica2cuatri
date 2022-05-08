@@ -1,0 +1,19 @@
+{
+	"revision" : 0,
+	"rules" : 
+	[
+		{
+			"outputs" : [],
+			"primary-output" : "CMakeFiles\\\\fx.dir\\\\funciones.f90.obj",
+			"provides" : 
+			[
+				{
+					"compiled-module-path" : "funciones.mod",
+					"logical-name" : "funciones.mod"
+				}
+			],
+			"requires" : []
+		}
+	],
+	"version" : 0
+}

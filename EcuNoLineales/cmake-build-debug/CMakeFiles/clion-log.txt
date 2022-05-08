@@ -1,0 +1,8 @@
+"C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2021.3.3/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\Ivan\Desktop\Informatica\EcuNoLineales -B C:\Users\Ivan\Desktop\Informatica\EcuNoLineales\cmake-build-debug
+-- The Fortran compiler identification is GNU 11.2.0
+-- Detecting Fortran compiler ABI info
+-- Detecting Fortran compiler ABI info - done
+-- Check for working Fortran compiler: C:/Users/Ivan/gcc/bin/gfortran.exe - skipped
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Ivan/Desktop/Informatica/EcuNoLineales/cmake-build-debug

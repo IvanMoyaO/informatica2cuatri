@@ -1,0 +1,19 @@
+{
+	"revision" : 0,
+	"rules" : 
+	[
+		{
+			"outputs" : [],
+			"primary-output" : "CMakeFiles\\\\mod.dir\\\\mod_iterativos.f90.obj",
+			"provides" : 
+			[
+				{
+					"compiled-module-path" : "mod_iterativos.mod",
+					"logical-name" : "mod_iterativos.mod"
+				}
+			],
+			"requires" : []
+		}
+	],
+	"version" : 0
+}
