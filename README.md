@@ -1,3 +1,2 @@
-# informatica2cuatri
-arreglar autoval potencia inversa
-Sis ecu no lineales
+# Códigos 2º Cuatri
+Jelou
